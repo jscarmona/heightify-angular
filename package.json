@@ -1,0 +1,17 @@
+{
+  "name": "heightify-angular.js",
+  "version": "0.0.1",
+  "description": "An angular directive to for heightify.js",
+  "author": "Javier Carmona <javierscarmona@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jscarmona/heightify-angular.git",
+  "dependencies": {
+    "heightify": "jscarmona/heightify"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1"
+  },
+  "main": "./js/heightify-angular.js"
+}
